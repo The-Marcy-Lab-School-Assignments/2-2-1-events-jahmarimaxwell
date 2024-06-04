@@ -27,24 +27,24 @@
   },
   "testScores": {
     "From Scratch Tests": {
-      "FrScTe1": 0,
-      "FrScTe2": 0
+      "FrScTe1": 1,
+      "FrScTe2": 1
     },
     "Modify Tests": {
-      "MoTe1": 0,
-      "MoTe2": 0,
-      "MoTe3": 0,
-      "MoTe4": 0,
-      "MoTe5": 0,
-      "MoTe6": 0,
-      "MoTe7": 0,
-      "MoTe8": 0,
-      "MoTe9": 0
+      "MoTe1": 1,
+      "MoTe2": 1,
+      "MoTe3": 1,
+      "MoTe4": 1,
+      "MoTe5": 1,
+      "MoTe6": 1,
+      "MoTe7": 1,
+      "MoTe8": 1,
+      "MoTe9": 1
     }
   },
   "humanReadable": {
-    "From Scratch Tests": "0/2",
-    "finalTestScore": "FINAL SCORE: 0/11",
-    "Modify Tests": "0/9"
+    "From Scratch Tests": "2/2",
+    "finalTestScore": "FINAL SCORE: 11/11",
+    "Modify Tests": "9/9"
   }
 }
